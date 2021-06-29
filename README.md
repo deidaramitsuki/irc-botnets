@@ -1,2 +1,1 @@
-# irc-botnets
-some irc botnets 
+some irc botnets
